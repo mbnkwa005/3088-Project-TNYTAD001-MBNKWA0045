@@ -18,8 +18,7 @@ The Sensing submodule deals with acquiring data from the physical environment th
 
 - **Schematics/Documentation** - Provides detailed schematics for the design and layout of the electrical circuits used in the project. This includes diagrams for both the Power and Sensing submodules.
 
-- **Docs** - Documentation related to the project, including setup guides, usage instructions, and development notes.
-- **Gerber Files** - KiCad Gerber files for each subsection.
+- **KiCad** - This folder contins all the KiCad Gerber files and KiCad schematics for each subsection.
   
 ## Additional Resources
 
