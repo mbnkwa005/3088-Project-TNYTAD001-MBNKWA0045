@@ -1,4 +1,8 @@
-# Project Repository
+# EEE3088F Micro-Mouse Project
+
+### Authors
+- Tadiwa Tanyanyiwa
+- Kwanele Mabanga
 
 Welcome to the GitHub repository for our project!, which includes two key submodules: the Power submodule and the Sensing submodule.
 This repository serves as a central hub for managing and sharing all the relevant files, including datasheets, schematics, and code associated with each submodule.
